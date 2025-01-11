@@ -6,7 +6,7 @@ conf = ['S','N']
 acento = ['é','á','è','é','ê','í','ì','î','ã','õ','ó','ò','ô']
 
 
-pergunta = int(input('Quantos usuários vocÊ quer registrar?'))
+pergunta = int(input('Quantos usuários você quer registrar?'))
 for i in range(0,pergunta):
     print(f'Registrando o {i+1} usuário:')
     
