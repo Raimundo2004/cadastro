@@ -1,0 +1,2 @@
+# cadastro
+ Sistema de Registro de Usuários – Back-End em Python  Este projeto consiste em um sistema de registro de usuários desenvolvido em Python, focado na coleta e validação de dados. Ele implementa funcionalidades para capturar informações como nome, CPF, e-mail e salário, garantindo a integridade e consistência dos dados fornecidos.  Funcionalidades: Entrada e validação de dados do usuário. Cálculo automático de aumento salarial (promoção de 20%). Armazenamento de registros estruturados. Exibição de dados em formato tabular utilizando a biblioteca Pandas.
